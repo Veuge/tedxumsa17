@@ -19,6 +19,7 @@ class CreateSpeakersTable extends Migration
             $table->string('charla');
             $table->text('descripcion');
             $table->string('imagen')->nullable();
+            $table->string('url_charla')->nullable();
             $table->timestamps();
         });
     }

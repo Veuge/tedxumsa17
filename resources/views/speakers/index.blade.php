@@ -39,6 +39,11 @@
         -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
         background-color: #555;
     }
+    .link {
+        line-height: 1.5;
+        font-size: 12px;
+        text-decoration: underline;
+    }
 </style>
 @endsection
 
@@ -55,37 +60,27 @@
 <div class="container">
     <div class="row team">
         @foreach($speakers as $speaker)
-            @if($speaker->nombre !== "")
-                <div class="col s12 m3 animate">
-                    <div class="description-ball"></div>
-                    <div class="description center-align" id="style-1">
-                        <div class="row h4-row">
-                            <h4 class="spk-name">{{ $speaker->nombre }}<br><small class="title">{{ $speaker->charla }}</small></h4>
-                        </div>
-                        <div class="row">
-                            <div class="col s12 l12">
-                                <p class="spk-bio">{{ $speaker->descripcion }}</p>
-                            </div>
+            <div class="col s12 m4 animate">
+                <div class="description-ball"></div>
+                <div class="description center-align" id="style-1">
+                    <div class="row h4-row">
+                        <h4 class="spk-name">
+                            {{ $speaker->nombre }}<br>
+                            <small class="title">
+                                <a class="link" target="_blank" href={{ $speaker->url_charla }} alt="Ver charla">
+                                    {{ $speaker->charla }}
+                                </a>
+                            </small>
+                        </h4>
+                    </div>
+                    <div class="row">
+                        <div class="col s12 l12">
+                            <p class="spk-bio">{{ $speaker->descripcion }}</p>
                         </div>
                     </div>
-                    <img src="{{ $speaker->imagen }}" class="responsive-img" alt="{{ $speaker->nombre }}" data-pagespeed-url-hash="2781055604">
                 </div>
-            @else
-                <div class="col s12 m3 animate">
-                    <div class="description-ball"></div>
-                    <div class="description center-align">
-                        <div class="row h4-row">
-                            <h4 class="spk-name">{{ $speaker->nombre }}<br><small>{{ $speaker->charla }}</small></h4>
-                        </div>
-                        <div class="row">
-                            <div class="col s12 l12">
-                                <p class="spk-bio">{{ $speaker->descripcion }}</p>
-                            </div>
-                        </div>
-                    </div>
-                    <img src="{{ $speaker->imagen }}" class="responsive-img" alt="{{ $speaker->nombre }}" data-pagespeed-url-hash="2781055604">
-                </div>
-            @endif
+                <img src="{{ $speaker->imagen }}" class="responsive-img" alt="{{ $speaker->nombre }}" data-pagespeed-url-hash="2781055604">
+            </div>
         @endforeach
     </div>
 </div>
