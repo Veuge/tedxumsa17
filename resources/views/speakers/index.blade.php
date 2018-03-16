@@ -58,6 +58,25 @@
 </div>
 
 <div class="container">
+    <div class="row">
+        <div class="col s12 m12 l8 offset-l2">
+            <div class="description-ball"></div>
+            <div class="description center-align">
+                <div class="row h4-row">
+                    <h4 class="centre-line">
+                        <span>
+                            <a href="https://www.youtube.com/playlist?list=PLevEh7kH5s-hGaJJHHdvUsP3yK_xZ27oB" target="_blank">
+                                Ve <b>aqui</b> todas las charlas
+                            </a>
+                        </span>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
     <div class="row team">
         @foreach($speakers as $speaker)
             <div class="col s12 m4 animate">
