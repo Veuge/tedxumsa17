@@ -137,7 +137,7 @@
                         <p>Paraninfo de la UMSA, La Paz &ndash; Bolivia</p>
                     </li>
                     <li class="event-info wow fadeInUp" data-wow-delay="0.4s"><i class="fa fa-envelope fa-2x"></i>
-                        <p>tedxumsa@gmail.com</p>
+                        <p>info@tedxumsa.org</p>
                     </li>
                 </ul>
             </div>
