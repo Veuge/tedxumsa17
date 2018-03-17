@@ -10,7 +10,7 @@
                 <ul class="icons right social">
                     <li><a href="https://www.facebook.com/TEDxUMSA"><i class="fa ic fa-facebook"></i>&#160;facebook.com/TEDxUMSA</a></li>
                     <li><a href="https://www.twitter.com/tedxumsa"><i class="fa ic fa-twitter"></i>&#160;@tedxumsa</a></li>
-                    <li><a href="mailto:tedxumsa@gmail.com"><i class="fa ic fa-envelope"></i>&#160;tedxumsa@gmail.com</a></li>
+                    <li><a href="mailto:info@tedxumsa.org"><i class="fa ic fa-envelope"></i>&#160;info@tedxumsa.org</a></li>
                 </ul>
             </div>
         </div>

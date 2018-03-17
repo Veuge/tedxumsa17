@@ -2,6 +2,32 @@
 
 @section('extra_css')
 <style>
+h3 {
+   margin-bottom: 50px;
+   text-align: center;
+   text-transform: uppercase;
+   font-size: 46px;
+   font-weight: 200;
+   line-height: 110%;
+   letter-spacing: 5px;
+}
+@media only screen and (max-width: 600px) {
+h3 {
+      font-size: 46px;
+      letter-spacing: 3px; }
+}
+h3:after {
+	content: '';
+	position: absolute;
+	left: 50%;
+	display: block;
+	width: 100px;
+	height: 5px;
+	margin-left: -50px;
+	margin-top: 35px;
+	background-color: #69f0ae;
+}
+
 	.col{
 		display: inline-block;
 	}
@@ -23,9 +49,9 @@
 @section('content')
 <!-- Equipo section -->
 <div class="section scrollspy">
-	<div class="container">
-		<div class="row" id="equipo">
-			<h2>Equipo</h2>
+	<div class="container title-page">
+		<div class="row">
+			<h2>Equipo TEDxUMSA 2017</h2>
 		</div>
 	</div>
 
