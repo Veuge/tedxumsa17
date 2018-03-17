@@ -108,7 +108,7 @@
                         <h1 style="font-family:Arial,Helvetica" class="tshadow"><strong>TEDx</strong><span class="brand">UMSA</span></h1>
                     </div>
                     <div class="col s12 text-center">
-                        <h3 class="typed tshadow">13 de Mayo / 8:00 a 16:00 / Paraninfo Universitario</h3>
+                        <h3 class="typed tshadow"> Septiembre 2018 / Paraninfo Universitario </h3>
                         <span class="typed-cursor tshadow">|</span>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                 <br><br>
                 <ul class="text-xs-center" style="text-align:center" id="staggered-test">
                     <li class="event-info wow fadeInUp" data-wow-delay="0.3s"><i class="fa fa-calendar fa-3x"></i>
-                        <p>13 / Mayo / 2017</p>
+                        <p> Septiembre / 2018 </p>
                     </li>
                     <li class="event-info wow fadeInUp" data-wow-delay="0.2s"><i class="fa fa-map-marker fa-2x"></i>
                         <p>Paraninfo de la UMSA, La Paz &ndash; Bolivia</p>
