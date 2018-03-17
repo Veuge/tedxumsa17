@@ -16,17 +16,6 @@
 		   font-size: 46px;
 		   letter-spacing: 3px; }
 	   }
-	   h3:after {
-		   content: '';
-		   position: absolute;
-		   left: 50%;
-		   display: block;
-		   width: 100px;
-		   height: 5px;
-		   margin-left: -50px;
-		   margin-top: 35px;
-		   background-color: #69f0ae;
-	   }
 	   h2.centre-line{
 		   width: 90%;
 		   border-bottom:0.1rem solid #ccc;
@@ -189,6 +178,15 @@
 			</div>
 
 			<br><br>
+		</div>
+		<div class="col s12 m12 l8 offset-l2">
+	        <div class="description-ball"></div>
+		        <div class="description center-align">
+		            <div class="row h1-row">
+						<h3 class="centre-line"><span>Auspiciadores TEDxUMSA 2017</span></h3>
+						<br><br><br>
+		            </div>
+		        </div>
 		</div>
 
 		<div class="row">
