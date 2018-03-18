@@ -9,9 +9,9 @@
             <div class="col s12 m12">
                 <p class="flow-text center-align">
                     Cada año TEDxUMSA lanza una convocatoria abierta para los interesados en <b>organizar</b> este evento. Sé parte del equipo organizador participando como <b>voluntario</b> en alguna de las áreas de coordinación del evento. 
-+                    <br>
-+                    <br>
-+                    En cada una de estas áreas podrás <b>explorar</b>, <b>aprender</b> así como <b>demostrar</b> tus habilidades y     conocimientos. Así que te invitamos a informarte acerca de nuestras áreas de trabajo y postular si te encuentras interesado.
+                    <br>
+                    <br>
+                    En cada una de estas áreas podrás <b>explorar</b>, <b>aprender</b> así como <b>demostrar</b> tus habilidades y     conocimientos. Así que te invitamos a informarte acerca de nuestras áreas de trabajo y postular si te encuentras interesado.
                 </p>
             </div>
         </div>

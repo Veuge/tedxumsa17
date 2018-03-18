@@ -92,7 +92,7 @@
         @include('partials.footer')
     </div>
     <!-- Scripts -->
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
     <script type="text/javascript" src="{{ asset('/') }}libs/materialize/js/materialize.min.js"></script>
     <script type="text/javascript">
