@@ -66,8 +66,7 @@
                     <h4 class="centre-line">
                         <span>
                             <a href="https://www.youtube.com/playlist?list=PLevEh7kH5s-hGaJJHHdvUsP3yK_xZ27oB" target="_blank">
-                                <!-- Delete the <br> added to look more aesthetically pleasing -->
-+                                Ve <b>aqui</b> las charlas del TEDxUMSA 2017 <br><br><br><br><br><br><br><br><br><br>
++                                Mira <b>aquí</b> las charlas del TEDxUMSA 2017 <br><br>
                             </a>
                         </span>
                     </h4>
