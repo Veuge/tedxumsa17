@@ -9,9 +9,9 @@
             <div class="col s12 m12">
                 <p class="flow-text center-align">
                     Cada año TEDxUMSA lanza una convocatoria abierta para los interesados en <b>organizar</b> este evento. Sé parte del equipo organizador participando como <b>voluntario</b> en alguna de las áreas de coordinación del evento. 
-+                    <br>
-+                    <br>
-+                    En cada una de estas áreas podrás <b>explorar</b>, <b>aprender</b> así como <b>demostrar</b> tus habilidades y     conocimientos. Así que te invitamos a informarte acerca de nuestras áreas de trabajo y postular si te encuentras interesado.
+                    <br>
+                    <br>
+                    En cada una de estas áreas podrás <b>explorar</b>, <b>aprender</b> así como <b>demostrar</b> tus habilidades y     conocimientos. Así que te invitamos a informarte acerca de nuestras áreas de trabajo y postular si te encuentras interesado.
                 </p>
             </div>
         </div>
@@ -22,19 +22,19 @@
             <i class="fa fa-4x fa-cogs animated-color"></i>
             <div class="divider"></div>
             <h5>Producción - Logística</h5>
-            <p>Planificar y organizar los recursos necesarios para realizar las diferentes actividades de la organizacion para el evento TEDxUMSA, ademas de coordinar las actividades de logistica a nivel externo e interno con respecto al evento.</p>
+            <p>Planificar y organizar los recursos necesarios para realizar las diferentes actividades de la organización para el evento TEDxUMSA, además de coordinar las actividades de logística a nivel externo e interno con respecto al evento.</p>
         </div>
         <div class="col s12 l4">
             <i class="fa fa-4x fa-money animated-color"></i>
             <div class="divider"></div>
             <h5>Finanzas y Legal</h5>
-            <p>Dirigir y administrar los recursos financieros de la organizacion TEDxUMSA, ademas de atender los asuntos legales respecto a las actividades de la organización, normas internas y a su relación con otras entidades.</p>
+            <p>Dirigir y administrar los recursos financieros de la organización TEDxUMSA, además de atender los asuntos legales respecto a las actividades de la organización, normas internas y a su relación con otras entidades.</p>
         </div>
         <div class="col s12 l4">
             <i class="fa fa-4x fa-certificate animated-color"></i>
             <div class="divider"></div>
             <h5>Marketing</h5>
-            <p>Planificar, difundir y promocionar las diferentes actividades de TEDxUMSA, ademas de ser responsables del posicionamiento del evento con los auspiciadores como con sus seguidores en redes sociales como en la pagina web.</p>
+            <p>Planificar, difundir y promocionar las diferentes actividades de TEDxUMSA, además de ser responsables del posicionamiento del evento con los auspiciadores como con sus seguidores en redes sociales como en la pagina web.</p>
         </div>
     </div>
 
@@ -43,19 +43,19 @@
             <i class="fa fa-4x fa-thumbs-up animated-color"></i>
             <div class="divider"></div>
             <h5>Relaciones Externas</h5>
-            <p>Encargados de crear contactos con empresas para generar convenios y auspicios a largo plazo para el evento TEDxUMSA 2018.</p>
+            <p> Establecer y mantener contacto con instituciones privadas y publicas en La Paz para hacer conocer los objetivos de TEDxUMSA y así lograr convenios para la realización del evento a través de auspicios y/o patrocinios.</p>
         </div>
         <div class="col s12 l4">
             <i class="fa fa-4x fa-clipboard animated-color"></i>
             <div class="divider"></div>
             <h5>Curaduría</h5>
-            <p>Buscar, contactar y segmentar a los posibles expositores para el evento TEDxUMSA, ademas de realizar curaduria a la charla de cada expositor para que se cumplan las condiciones y ojetivos de una charla TED y del TEDxUMSA.</p>
+            <p>Buscar, contactar y segmentar a los posibles expositores para el evento TEDxUMSA, además de realizar curaduría a la charla de cada expositor para que se cumplan las condiciones y objetivos de una charla TED y del TEDxUMSA.</p>
         </div>
         <div class="col s12 l4">
             <i class="fa fa-4x fa-camera animated-color"></i>
             <div class="divider"></div>
             <h5>Media</h5>
-            <p>Crear, editar material visual, sonoro, escrito y audiovisual para las actividades internas y externas del TEDxUMSA mediante el uso de equipos y herramientas de edición de imagenes y videos.</p>
+            <p>Crear, editar material visual, sonoro, escrito y audiovisual para las actividades internas y externas del TEDxUMSA mediante el uso de equipos y herramientas de edición de imágenes y vídeos.</p>
         </div>
     </div>
 
@@ -67,7 +67,7 @@
                     <h4 class="centre-line">
                         <span>
                             <a href="https://goo.gl/forms/2J916hjAHT0LwVqE3" target="_blank">
-                                <b>Haz click aqui para postular</b>
+                                <b>Postulate aquí</b>
                             </a>
                         </span>
                     </h4>
